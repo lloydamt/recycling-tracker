@@ -20,4 +20,4 @@
 
 -[@Grenarded](https://github.com/Grenarded)
 
--[@michaelthomas]
+-[@michaelthomass]
