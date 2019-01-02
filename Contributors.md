@@ -19,3 +19,5 @@
 -[@livingdev](https://github.com/livingdev)
 
 -[@Grenarded](https://github.com/Grenarded)
+
+-[@michaelthomas]
